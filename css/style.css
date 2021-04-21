@@ -1,0 +1,166 @@
+body{
+   background: linear-gradient(rgba(0, 0, 0, 0.104),rgba(0, 0, 0, 0.131));
+    font-family: 'Courgette', cursivel;
+}
+.Company{
+    background-color: #00cba9e7;  
+    margin-top: 0 !important;
+}
+.navbar{
+    background-color:  #00cba9e7;
+    margin-bottom: 0 !important;
+    border: 0;
+}
+.navbar .container-fluid .nav>li>a{
+   font-size: 20px;
+   color: black;
+   font-weight: bold;
+   letter-spacing: 2px;   
+}
+.navbar .container-fluid .nav>li>a:hover{
+    background:linear-gradient(rgb(0,0,0,0.5),rgb(0,0,0,0.5)) ;
+    color: wheat;
+    border-radius: 10px;
+}
+  .navbar .container-fluid .navbar-header .navbar-brand{
+    font-size: 30px;
+    letter-spacing: 3px;
+    color: black;
+}
+.Company .row .img-header>img{
+   width:100%;
+}
+.Company .row .text-header>h1{
+    margin-top:100px;
+    color: #000;
+    letter-spacing:2px; 
+}
+.Company .row .text-header .button-header{
+    border-radius: 20px;
+    width: 200px;
+    font-size: 20px;
+    height: 40px;
+    margin:80px;
+    color: #000;
+    font-weight: bold;
+    letter-spacing: 4px;   
+}
+.container .row .titel>h1{
+    color: #000;
+    letter-spacing: 4px;
+}
+.container .row .pragrf>p{
+    color: black;
+    letter-spacing: 2px;
+    font-weight: bold;
+    line-height: 35px;
+}
+.diescrptiones{
+    background-color:#00cba9;
+	margin: 0 !important;
+}
+.diescrptiones .row .img-diescr>img{
+    width: 90%;
+}
+.diescrptiones .row .text-diescr{
+    color: #000;
+}
+.diescrptiones .row .text-diescr>h1{
+    margin-top: 60px;
+    letter-spacing: 3px;
+}
+.diescrptiones .row .text-diescr>p{
+    line-height: 30px;
+    font-weight: bold;
+ letter-spacing: 2px;
+}
+.diescrptiones .row .text-diescr .button-header{
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 20px;
+    
+}
+.serverses .row .content{
+    font-size: 50px;
+}
+.title{  
+    margin-bottom: 30px;
+    letter-spacing: 4px;
+}
+.menu .row .img-menu>img{
+    width:250px;
+    height: 300px;
+}
+.menu .row .img-menu .site-titel{
+    color: #000;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.menu-o{
+    background-color:#4fdee2;  
+}
+.desingeres .row .imge>img{ 
+    width:300px;
+}
+.desingeres{
+    background-color: #0cdbe2;
+}
+.desingeres .row .name>p{
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.desingeres .row .name>h1{
+    color: #000;
+    letter-spacing: 3px;
+}
+.desingeres .row .name>a{
+    text-decoration: none;
+    font-size: 30px;
+    color: #000;
+}
+.desingeres .row .name>a:hover{
+    
+    color: wheat;
+}
+.desingeres .row {
+    padding: 50px;
+}
+.jobes .photos .photo>img{
+    width: 250px;
+    height: 300px;
+}
+ .contect .conteainer-contect .lineks>a,i{
+     font-size: 25px;
+     color: #000;
+     padding-top: 20px;
+    text-decoration: none;
+ }
+ .contect .conteainer-contect .lineks>i{
+     font-size: 30px;
+     padding: 10px;
+     cursor: pointer;
+ }
+ .contect .conteainer-contect .lineks>i:hover{
+     color: rgb(50, 228, 180);
+ }
+ .contect .conteainer-contect .imgs>img{
+     width:100%;
+     height: 350px;
+ }
+ .titel{
+     color: #000;
+     letter-spacing: 2px;
+     margin-bottom: 20px;  
+ }
+.footer h4{
+    color: #000;
+    margin-bottom: 0 !important;
+    height: 30px;
+    background-color: rgba(14, 186, 186, 0.837); 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
